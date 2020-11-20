@@ -1,4 +1,4 @@
 # SQL-Generators
 
-<b>SQL Insert Data Gen</b>
+<b>SQL Insert Data Gen</b><br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FTheLifeOfComputing%2FSQL-Generators/HEAD)
